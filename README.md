@@ -1,2 +1,4 @@
-# my-first-code
-this is my first repository code
+int main(){
+  printf("Hello World");
+  return 0;
+}
